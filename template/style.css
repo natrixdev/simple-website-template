@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    justify-content: center;
+    background-color: black;
+}
+
+h1 {
+    size: 40px;
+    color: blue;
+}
+
+p {
+    size: 25px;
+    color: white
+}
