@@ -4,7 +4,7 @@ Made by [natrix](https://github.com/natrixdev) using [visual studio code](https:
 
 
 ```
-↪ template/
+template/
   ↪ index.html
   ↪ style.css
   ↪ script.js
